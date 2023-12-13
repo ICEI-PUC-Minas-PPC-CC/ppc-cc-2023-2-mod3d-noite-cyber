@@ -1,11 +1,3 @@
-# Instruções de utilização
+# Arquivo Blender
 
-## Instalação do Site
-
-O site em HTML/CSS/JS é um projeto estático, logo pode ser utilizado tanto em servidores...
-
-## Histórico de versões
-
-### [0.1.0] - DD/MM/AA
-#### Adicionado
-- Adicionado ...
+[Arquivo Blender.zip](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2023-2-mod3d-noite-cyber/files/13662633/Arquivo.Blender.zip)
