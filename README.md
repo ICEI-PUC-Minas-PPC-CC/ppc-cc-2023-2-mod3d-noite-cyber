@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# Mario e face Signorelli
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,14 +6,12 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- João Pedro Zaghi
+- Diovane Sinorelli
 
 ## Professor
 
-- Mestre Yoda
+- Wil
 
 # Documentação
 
